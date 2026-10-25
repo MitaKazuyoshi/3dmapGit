@@ -13,10 +13,4 @@
 *.sln
 .vs/
 .idea/
-*.3ds
-*.max
-*.exr
-*.hdr
-*.mp4
-*.mov
 !*.meta
