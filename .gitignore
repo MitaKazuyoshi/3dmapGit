@@ -13,7 +13,6 @@
 *.sln
 .vs/
 .idea/
-*.dae
 *.3ds
 *.max
 *.exr
